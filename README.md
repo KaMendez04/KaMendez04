@@ -4,7 +4,8 @@
 
 ###
 
-<h2 data-importer="text" align="center">Hello World!</h2>
+<h2 data-importer="text" align="center">Hi, I'm Katheryn Méndez 👋</h2>
+<p align="center">Information Systems Engineering | Technical Degree in Business Informatics | FullStack Developer</p>
 
 ###
 
